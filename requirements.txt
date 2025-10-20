@@ -1,9 +1,7 @@
+aiohttp==3.8.6
 aiogram==2.25.1
-openai
-python-telegram-bot==21.4
-python-dotenv
-aiohttp
-requests
-pillow
-wheel
-setuptools
+pyrogram==2.0.106
+TgCrypto==1.2.5
+requests==2.31.0
+python-dotenv==1.0.1
+pillow==10.0.0
