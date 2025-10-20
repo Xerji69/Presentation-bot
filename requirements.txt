@@ -5,3 +5,5 @@ python-dotenv
 aiohttp
 requests
 pillow
+wheel
+setuptools
