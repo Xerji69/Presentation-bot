@@ -1,0 +1,65 @@
+2025-10-20 21:56:16,135 [WARNING] OPENAI_API_KEY задан, но пакет openai не установлен. Установите openai или оставьте ключ пустым.
+2025-10-20 21:56:16,138 [INFO] DB initialized at data\presentation_bot.db
+2025-10-20 21:56:16,182 [INFO] Created minimal template templates\modern_dark.pptx
+2025-10-20 21:56:16,198 [INFO] Created minimal template templates\modern_light.pptx
+2025-10-20 21:56:16,213 [INFO] Created minimal template templates\corporate_blue.pptx
+2025-10-20 21:56:16,229 [INFO] Created minimal template templates\corporate_gray.pptx
+2025-10-20 21:56:16,245 [INFO] Created minimal template templates\creative_color.pptx
+2025-10-20 21:56:16,260 [INFO] Created minimal template templates\minimal_white.pptx
+2025-10-20 21:56:16,277 [INFO] Created minimal template templates\minimal_black.pptx
+2025-10-20 21:56:16,293 [INFO] Created minimal template templates\photo_background.pptx
+2025-10-20 21:56:16,309 [INFO] Created minimal template templates\gradient.pptx
+2025-10-20 21:56:16,324 [INFO] Created minimal template templates\classic.pptx
+2025-10-20 21:58:54,325 [WARNING] OPENAI_API_KEY задан, но пакет openai не установлен. Установите openai или оставьте ключ пустым.
+2025-10-20 21:58:54,348 [INFO] DB initialized at data\presentation_bot.db
+2025-10-20 22:03:05,454 [WARNING] OPENAI_API_KEY задан, но пакет openai не установлен. Установите openai или оставьте ключ пустым.
+2025-10-20 22:03:05,471 [INFO] DB initialized at data\presentation_bot.db
+2025-10-20 22:08:35,365 [WARNING] OPENAI_API_KEY задан, но пакет openai не установлен. Установите openai или оставьте ключ пустым.
+2025-10-20 22:08:35,398 [INFO] DB initialized at data\presentation_bot.db
+2025-10-20 22:12:50,613 [INFO] DB initialized at data\presentation_bot.db
+2025-10-20 22:18:47,919 [INFO] DB initialized at data\presentation_bot.db
+2025-10-20 22:28:53,961 [INFO] DB initialized at data\presentation_bot.db
+2025-10-20 22:28:54,507 [INFO] Starting bot (polling)...
+2025-10-20 22:28:58,074 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getMe "HTTP/1.1 200 OK"
+2025-10-20 22:28:58,164 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/deleteWebhook "HTTP/1.1 200 OK"
+2025-10-20 22:28:58,220 [INFO] Application started
+2025-10-20 22:29:00,120 [INFO] Cleanup task started (retention days = 40)
+2025-10-20 22:29:08,653 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:29:18,770 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:29:28,835 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:29:38,903 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:29:48,969 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:29:59,034 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:30:09,112 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:30:19,178 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:30:29,241 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:30:39,321 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:30:48,316 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:30:48,837 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/sendMessage "HTTP/1.1 200 OK"
+2025-10-20 22:30:57,602 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:30:58,206 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/sendMessage "HTTP/1.1 200 OK"
+2025-10-20 22:31:01,808 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:01,985 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/sendMessage "HTTP/1.1 200 OK"
+2025-10-20 22:31:05,645 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:05,747 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/sendMessage "HTTP/1.1 200 OK"
+2025-10-20 22:31:09,328 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:12,316 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:12,818 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/sendMessage "HTTP/1.1 200 OK"
+2025-10-20 22:31:15,868 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:16,032 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/sendMessage "HTTP/1.1 200 OK"
+2025-10-20 22:31:25,939 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:36,011 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:42,994 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:43,521 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-10-20 22:31:43,628 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/editMessageText "HTTP/1.1 200 OK"
+2025-10-20 22:31:48,423 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:55,079 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:56,922 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:31:57,481 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/sendMessage "HTTP/1.1 200 OK"
+2025-10-20 22:32:02,182 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:32:04,536 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:32:12,259 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:32:13,032 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:32:23,096 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:32:33,159 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
+2025-10-20 22:32:43,224 [INFO] HTTP Request: POST https://api.telegram.org/bot8407789350:AAFdSOTpcE8V7mz6ja-eyAmki_aybtUA-Ds/getUpdates "HTTP/1.1 200 OK"
