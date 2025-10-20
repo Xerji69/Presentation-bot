@@ -1,1 +1,1 @@
-worker: python Presentation_Bot.py
+web: python Presentation_Bot.py
